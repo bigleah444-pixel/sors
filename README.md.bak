@@ -1,4 +1,4 @@
-# MORTADA Source - سورس مرتــضى
+# flex Source - سورس فليكس
 
 ## الوصف
 سورس تيبثون هو بوت Telegram متقدم مبني باستخدام مكتبة Telethon. يوفر العديد من الميزات والأوامر التفاعلية لإدارة حسابات Telegram.
@@ -15,6 +15,7 @@
 - Python 3.10.9
 - حساب Telegram Developer
 - API_ID و API_HASH من my.telegram.org
+- STRING_SESSION (جلسة مشفرة)
 
 ## النشر على Render
 
@@ -23,9 +24,7 @@
 
 - `API_ID`: معرف API الخاص بك من my.telegram.org
 - `API_HASH`: مفتاح API الخاص بك من my.telegram.org  
-- `Number`:رقمك
-- `code`: كود الي اجاك على التليجرام
-- `pass`: باسوردك اذا كان اكو باسورد
+- `STRING_SESSION`: جلسة Telegram المشفرة
 
 ### الخطوة 2: النشر
 1. ارفع الملفات إلى مستودع GitHub
@@ -47,6 +46,6 @@
 - البوت يعمل على حسابك الشخصي وليس كبوت منفصل
 - احرص على عدم مشاركة STRING_SESSION مع أي شخص
 
-## المطور
-مطور السورس – @M_R_Q_P
+## الدعم
+للحصول على الدعم، تواصل مع المطور: @nS_R_T
 
